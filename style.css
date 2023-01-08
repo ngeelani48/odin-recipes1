@@ -1,0 +1,34 @@
+.youtube-top-bar{
+    background-color: brown;
+    width: 100%;
+    overflow: auto;
+}
+.youtube-top-bar form{
+    float: right;
+    padding-right: 400px;
+padding-top: 0px;
+
+}
+input{
+    font-size: 20px;
+
+}
+button{
+    background: orange;
+    cursor: pointer;
+}
+iframe{
+    padding-left: 450px;
+    padding-top: 50px;
+    
+}
+.thumbnail{
+  float: right;
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+.thumbnail img{
+    padding: 7px;
+}
